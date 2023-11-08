@@ -1,7 +1,5 @@
 
 import sys
-
-
 def apply_percent(v_free_price:float, percent:float):
 
 
