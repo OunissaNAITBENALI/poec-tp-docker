@@ -2,10 +2,10 @@
 ##Create poec-tp-docker repository in GITHUB
 - # On Pycharm: 
 . Create a python script src/calc.py 
-. create main.py 
+. create main.py, dans ce fichier on crée la fonction qui print les valeurs 
 - Create Docker file 
 - Create requirements.txt
-- Test_calc.py
+- Test_calc.py c'est dans ce fichier où se fait le calcul, 
 - Create in calc.py, the fonctions. 
 . This fonction applicate % of TVA with 
 . % of TVA must be between 0 and 100. 
